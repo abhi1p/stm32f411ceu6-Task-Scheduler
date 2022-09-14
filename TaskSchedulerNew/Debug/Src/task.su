@@ -1,0 +1,6 @@
+../Src/task.c:14:6:task1	8	static
+../Src/task.c:29:6:task2	8	static
+../Src/task.c:42:6:task3	8	static
+../Src/task.c:55:6:task4	8	static
+../Src/task.c:68:6:idle	4	static
+../Src/task.c:73:6:enableAllFaultMonitoring	16	static
